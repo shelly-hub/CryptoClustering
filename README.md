@@ -20,10 +20,11 @@ The analysis to predict if cryptocurrencies are affected by 24-hour or 7-day pri
 ### Section 02
     6. Using scaled data to perform a principal component analysis (PCA) to reduce the column features to three principal components
     7. Same method as above to find K using PCA data and plot PCA cluster data
+    8. Analysis: Comment on the differences of Best K value obtained using PCA data and Original scaled data
 
 ### Analysis
-    8. Create 2 composite plots: one for Elbow Curve and one for Cluster plots for original scaled data versus PCA scaled data
-    9. Identify the behaviour of clusters before optimising (original scaled data) and after optimising (PCA scaled data)
+    9. Create 2 composite plots: one for Elbow Curve and one for Cluster plots for original scaled data versus PCA scaled data
+    10. Identify the behaviour of clusters before optimising (original scaled data) and after optimising (PCA scaled data)
 
 ## References
  - Composing Plots.(2017-2023). Viz. Retrieved on: 10/July/2023, from<https://holoviz.org/tutorial/Composing_Plots.html>
